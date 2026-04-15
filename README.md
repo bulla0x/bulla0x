@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Jyotishman Baruah (aka Bulla)</h1>
-<h3 align="center">A tech enthusiast from India 🇮🇳</h3>
+<h3 align="center">A tech enthusiast from Assam, India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
