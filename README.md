@@ -44,7 +44,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://t.me/Bull0x" target="_blank">
+  <a href="https://t.me/Bulla03x" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:jyotishmanbaruah67@gmail.com">
