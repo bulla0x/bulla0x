@@ -1,28 +1,53 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)]()
-# 💫 About Me:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="MasterHead" width="100%">
+</div>
+
 <h1 align="center">Hi 👋, I'm Jyotishman Baruah (aka Bulla)</h1>
-<h3 align="center">A tech enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20views&color=613583&style=plastic" alt="bulla0x" /> </p>
+<h3 align="center">A tech enthusiast from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **AOSP and Kernel related stuff**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
+</div>
 
-- 🐧 I'm comfortable with **Linux environments**
+<br>
 
-- 💬 Ask me about **Android Custom ROM**
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 📫 How to reach me **jyotishmanbaruah67@gmail.com**
+### 💫 About Me:
 
+- 🌱 I’m currently deep-diving into **AOSP, Kernel compilation, and Custom ROMs**
+- 🐧 Comfortable maneuvering through **Linux environments**
+- 💬 Ask me about **Android Custom ROM development**
+- 📫 Reach out at: **[jyotishmanbaruah67@gmail.com](mailto:jyotishmanbaruah67@gmail.com)**
 
+<br>
 
+### 🛠️ Tech Stack & Tools:
 
-
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bulla0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bulla0x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bulla0x&show_icons=true&theme=tokyonight&locale=en" alt="bulla0x" /></p>
-
-## 🌐 Socials:
 <p align="left">
-<a href="https://t.me/Mrick343" target="blank"><img align="center" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg" alt="inferno0230" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=white" alt="AOSP" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulla0x&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="bulla0x stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bulla0x&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="bulla0x top langs" height="165" />
+</div>
+
+<br>
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://t.me/Bull0x" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:jyotishmanbaruah67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
