@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/raw/main/Pixel-Art/spring%20evening.gif" alt="MasterHead" width="100%">
+  <img src="![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)" alt="MasterHead" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jyotishman Baruah (aka Bulla)</h1>
