@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)" alt="MasterHead" width="100%">
+  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" alt="MasterHead" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jyotishman Baruah (aka Bulla)</h1>
