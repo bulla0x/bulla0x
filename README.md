@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" alt="MasterHead" width="100%">
+  <img src="[https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862](https://private-user-images.githubusercontent.com/131459863/471619977-a7605427-fa69-416f-85ec-955ea51490c1.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYzMjU2MDUsIm5iZiI6MTc3NjMyNTMwNSwicGF0aCI6Ii8xMzE0NTk4NjMvNDcxNjE5OTc3LWE3NjA1NDI3LWZhNjktNDE2Zi04NWVjLTk1NWVhNTE0OTBjMS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxNlQwNzQxNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MmVmMGJmOGVhYzFmNzZiODgwZGY2N2Y3ZGE4M2I5MjZjMGZlODRkMGJhNzcxODgyOTVhMjgyZjQzODVkNzU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.-xb_lJROl-urt1NSeWVenTPxFemeElmNV6-nwpDc8fc)" alt="MasterHead" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jyotishman Baruah (aka Bulla)</h1>
