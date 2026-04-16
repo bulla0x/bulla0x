@@ -6,8 +6,12 @@
 <h3 align="center">Android ROM Developer | A tech enthusiast from Assam, India 🇮🇳</h3>
 
 <div align="center">
-  Passionate about AOSP, performance tuning and custom Android ROM development ⚡
-  <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  <p>
+    <strong>Focused on AOSP development, performance optimization, and custom Android ROM engineering.</strong>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
 
 ---
