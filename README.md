@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Zsh-111111?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/Fish-4CAF50?style=for-the-badge&logo=fish&logoColor=white" alt="Fish" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ### 📊 GitHub Stats:
