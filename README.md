@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Jyotishman Baruah (aka Bulla)</h1>
-<h3 align="center">A tech enthusiast from Assam, India 🇮🇳</h3>
+<h3 align="center">Android ROM Developer | A tech enthusiast from Assam, India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
 </div>
 
-<br>
+---
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
