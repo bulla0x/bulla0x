@@ -41,7 +41,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bulla0x&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="bulla0x top langs" height="165" />
 </div>
 
-<br>
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bulla0x&theme=tokyo-night"/>
+</p>
+
+---
 
 ### 🌐 Connect with me:
 
