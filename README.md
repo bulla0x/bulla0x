@@ -37,21 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=bulla0x&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulla0x&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="bulla0x stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bulla0x&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="bulla0x top langs" height="165" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bulla0x&theme=tokyo-night"/>
-</p>
-
 ---
 
 ### 🌐 Connect with me:
